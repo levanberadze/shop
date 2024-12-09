@@ -1,0 +1,182 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "Smartphone",
+            "price": 699.99,
+            "description": "Latest model with 6GB RAM, 128GB storage",
+            "create_date": "2024-10-01",
+            "views": 150,
+            "stock_qty": 50
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "name": "Laptop",
+            "price": 1299.99,
+            "description": "High-performance laptop with 16GB RAM, 512GB SSD",
+            "create_date": "2024-11-15",
+            "views": 200,
+            "stock_qty": 30
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "name": "Headphones",
+            "price": 199.99,
+            "description": "Noise-cancelling wireless headphones",
+            "create_date": "2024-09-30",
+            "views": 300,
+            "stock_qty": 100
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "name": "Smartwatch",
+            "price": 249.99,
+            "description": "Waterproof smartwatch with health tracking",
+            "create_date": "2024-08-10",
+            "views": 80,
+            "stock_qty": 120
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 5,
+        "fields": {
+            "name": "Bluetooth Speaker",
+            "price": 89.99,
+            "description": "Portable Bluetooth speaker with deep bass",
+            "create_date": "2024-07-20",
+            "views": 220,
+            "stock_qty": 75
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 6,
+        "fields": {
+            "name": "Digital Camera",
+            "price": 499.99,
+            "description": "12MP camera with 4K video recording",
+            "create_date": "2024-06-15",
+            "views": 130,
+            "stock_qty": 40
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 7,
+        "fields": {
+            "name": "Gaming Console",
+            "price": 399.99,
+            "description": "Next-gen gaming console with 1TB storage",
+            "create_date": "2024-05-30",
+            "views": 250,
+            "stock_qty": 60
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 8,
+        "fields": {
+            "name": "Smart TV",
+            "price": 799.99,
+            "description": "55-inch 4K Ultra HD Smart TV",
+            "create_date": "2024-04-10",
+            "views": 500,
+            "stock_qty": 45
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 9,
+        "fields": {
+            "name": "Tablet",
+            "price": 349.99,
+            "description": "10-inch tablet with 64GB storage",
+            "create_date": "2024-03-05",
+            "views": 180,
+            "stock_qty": 90
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 10,
+        "fields": {
+            "name": "Electric Scooter",
+            "price": 599.99,
+            "description": "Foldable electric scooter with long battery life",
+            "create_date": "2024-02-22",
+            "views": 150,
+            "stock_qty": 25
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 11,
+        "fields": {
+            "name": "Coffee Maker",
+            "price": 99.99,
+            "description": "Automatic coffee maker with grinder",
+            "create_date": "2024-01-17",
+            "views": 80,
+            "stock_qty": 150
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 12,
+        "fields": {
+            "name": "Fitness Tracker",
+            "price": 129.99,
+            "description": "Water-resistant fitness tracker with heart rate monitor",
+            "create_date": "2024-12-01",
+            "views": 210,
+            "stock_qty": 80
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 13,
+        "fields": {
+            "name": "Wireless Charger",
+            "price": 39.99,
+            "description": "Fast wireless charger for smartphones",
+            "create_date": "2024-11-05",
+            "views": 300,
+            "stock_qty": 200
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 14,
+        "fields": {
+            "name": "Laptop Stand",
+            "price": 29.99,
+            "description": "Adjustable laptop stand for ergonomic use",
+            "create_date": "2024-09-01",
+            "views": 160,
+            "stock_qty": 50
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 15,
+        "fields": {
+            "name": "VR Headset",
+            "price": 299.99,
+            "description": "Virtual Reality headset for immersive experiences",
+            "create_date": "2024-08-15",
+            "views": 120,
+            "stock_qty": 70
+        }
+    }
+]
